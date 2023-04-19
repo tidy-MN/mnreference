@@ -9,13 +9,13 @@ options(tigris_use_cache = TRUE)
 # Download files
 
 # MNDOT's GIS Commons shapefile
-mndot_tribal_areas <- download.file("https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/bdry_tribal_government/shp_bdry_tribal_government.zip", "data/MNDOT interpreted tribal areas.zip")
+download.file("https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/bdry_tribal_government/shp_bdry_tribal_government.zip", "data/MNDOT interpreted tribal areas.zip")
 
 unzip("data/MNDOT interpreted tribal areas.zip")
 
 
 # MPCA EJ Tribal areas
-mpca_tribal_areas <- download.file("https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_ej_mpca_census/shp_env_ej_mpca_census.zip", "data/MPCA EJ tribal areas.zip")
+download.file("https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_ej_mpca_census/shp_env_ej_mpca_census.zip", "data/MPCA EJ tribal areas.zip")
 
 unzip("data/MPCA EJ tribal areas.zip")
 
