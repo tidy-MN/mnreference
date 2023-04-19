@@ -2,8 +2,9 @@
 
 Get MN reference data for populations, demographics, and geographic boundaries.
 
+<br>
 
-## Data
+# Data
 
 | ID|Topic     |Data                                               | Filename |
 |--:|:---------|:--------------------------------------------------|:---------|
@@ -17,8 +18,9 @@ Get MN reference data for populations, demographics, and geographic boundaries.
 |  8|Geography | City Tracts - Census 2020           | (Help Wanted) |
 |  9|Geography | City ZIP - ZCTAs - Census 2020      | (Help Wanted)  |
 
+<br>
 
-## Load data
+# Load data
 
 ### CSVs :clipboard:
 ```r
