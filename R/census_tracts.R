@@ -25,9 +25,9 @@ mn_tracts <- mn_tracts %>%
              select(geoid, everything())
               
 # SAVE 
-st_write(mn_tracts, "simple_census_2020_tract_polygons.shp")
+st_write(mn_tracts, "Census Tract polygons 2020 simplified.shp")
 
 # Review
-aa <- st_read("simple_census_2020_tract_polygons.shp")
+aa <- st_read("Census Tract polygons 2020 simplified.shp")
 
 plot(aa[,1])

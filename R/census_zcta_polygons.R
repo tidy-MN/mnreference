@@ -51,9 +51,9 @@ mn_zcta <- mn_zcta %>%
               
 # SAVE 
 write_csv(mn_zcta[, "ZCTA5CE20"], "Census 2020 ZCTA5 list.csv")
-st_write(mn_zcta, "simple_census_2020_zcta_polygons.shp")
+st_write(mn_zcta, "Census Zip ZCTA polygons 2020 simplified.shp")
 
 # Review
-aa <- st_read("simple_census_2020_zcta_polygons.shp")
+aa <- st_read("Census Zip ZCTA polygons 2020 simplified.shp")
 
 plot(aa[,1])
