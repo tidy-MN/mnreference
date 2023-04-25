@@ -1,0 +1,310 @@
+state_fips,county_fips,fips,county_name,alt_spelling
+27,001,27001,Aitkin,AITKIN
+27,001,27001,Aitkin,Aitkin
+27,001,27001,Aitkin,aitkin
+27,003,27003,Anoka,ANOKA
+27,003,27003,Anoka,Anoka
+27,003,27003,Anoka,anoka
+27,005,27005,Becker,BECKER
+27,005,27005,Becker,Becker
+27,005,27005,Becker,becker
+27,007,27007,Beltrami,BELTRAMI
+27,007,27007,Beltrami,Beltrami
+27,007,27007,Beltrami,beltrami
+27,009,27009,Benton,BENTON
+27,009,27009,Benton,Benton
+27,009,27009,Benton,benton
+27,011,27011,Big Stone,BIG STONE
+27,011,27011,Big Stone,BIGSTONE
+27,011,27011,Big Stone,Big Stone
+27,011,27011,Big Stone,BigStone
+27,011,27011,Big Stone,big stone
+27,011,27011,Big Stone,bigstone
+27,013,27013,Blue Earth,BLUE EARTH
+27,013,27013,Blue Earth,BLUEEARTH
+27,013,27013,Blue Earth,Blue Earth
+27,013,27013,Blue Earth,BlueEarth
+27,013,27013,Blue Earth,blue earth
+27,013,27013,Blue Earth,blueearth
+27,015,27015,Brown,BROWN
+27,015,27015,Brown,Brown
+27,015,27015,Brown,brown
+27,017,27017,Carlton,CARLTON
+27,017,27017,Carlton,Carlton
+27,017,27017,Carlton,carlton
+27,019,27019,Carver,CARVER
+27,019,27019,Carver,Carver
+27,019,27019,Carver,carver
+27,021,27021,Cass,CASS
+27,021,27021,Cass,Cass
+27,021,27021,Cass,cass
+27,023,27023,Chippewa,CHIPPEWA
+27,023,27023,Chippewa,Chippewa
+27,023,27023,Chippewa,chippewa
+27,025,27025,Chisago,CHISAGO
+27,025,27025,Chisago,Chisago
+27,025,27025,Chisago,chisago
+27,027,27027,Clay,CLAY
+27,027,27027,Clay,Clay
+27,027,27027,Clay,clay
+27,029,27029,Clearwater,CLEARWATER
+27,029,27029,Clearwater,Clearwater
+27,029,27029,Clearwater,clearwater
+27,031,27031,Cook,COOK
+27,031,27031,Cook,Cook
+27,031,27031,Cook,cook
+27,033,27033,Cottonwood,COTTONWOOD
+27,033,27033,Cottonwood,Cottonwood
+27,033,27033,Cottonwood,cottonwood
+27,035,27035,Crow Wing,CROW WING
+27,035,27035,Crow Wing,CROWWING
+27,035,27035,Crow Wing,Crow Wing
+27,035,27035,Crow Wing,CrowWing
+27,035,27035,Crow Wing,crow wing
+27,035,27035,Crow Wing,crowwing
+27,037,27037,Dakota,DAKOTA
+27,037,27037,Dakota,Dakota
+27,037,27037,Dakota,dakota
+27,039,27039,Dodge,DODGE
+27,039,27039,Dodge,Dodge
+27,039,27039,Dodge,dodge
+27,041,27041,Douglas,DOUGLAS
+27,041,27041,Douglas,Douglas
+27,041,27041,Douglas,douglas
+27,043,27043,Faribault,FARIBAULT
+27,043,27043,Faribault,Faribault
+27,043,27043,Faribault,faribault
+27,045,27045,Fillmore,FILLMORE
+27,045,27045,Fillmore,Fillmore
+27,045,27045,Fillmore,fillmore
+27,047,27047,Freeborn,FREEBORN
+27,047,27047,Freeborn,Freeborn
+27,047,27047,Freeborn,freeborn
+27,049,27049,Goodhue,GOODHUE
+27,049,27049,Goodhue,Goodhue
+27,049,27049,Goodhue,goodhue
+27,051,27051,Grant,GRANT
+27,051,27051,Grant,Grant
+27,051,27051,Grant,grant
+27,053,27053,Hennepin,HENNEPIN
+27,053,27053,Hennepin,Hennepin
+27,053,27053,Hennepin,hennepin
+27,055,27055,Houston,HOUSTON
+27,055,27055,Houston,Houston
+27,055,27055,Houston,houston
+27,057,27057,Hubbard,HUBBARD
+27,057,27057,Hubbard,Hubbard
+27,057,27057,Hubbard,hubbard
+27,059,27059,Isanti,ISANTI
+27,059,27059,Isanti,Isanti
+27,059,27059,Isanti,isanti
+27,061,27061,Itasca,ITASCA
+27,061,27061,Itasca,Itasca
+27,061,27061,Itasca,itasca
+27,063,27063,Jackson,JACKSON
+27,063,27063,Jackson,Jackson
+27,063,27063,Jackson,jackson
+27,065,27065,Kanabec,KANABEC
+27,065,27065,Kanabec,Kanabec
+27,065,27065,Kanabec,kanabec
+27,067,27067,Kandiyohi,KANDIYOHI
+27,067,27067,Kandiyohi,Kandiyohi
+27,067,27067,Kandiyohi,kandiyohi
+27,069,27069,Kittson,KITTSON
+27,069,27069,Kittson,Kittson
+27,069,27069,Kittson,kittson
+27,071,27071,Koochiching,KOOCHICHING
+27,071,27071,Koochiching,Koochiching
+27,071,27071,Koochiching,koochiching
+27,073,27073,Lac qui Parle,LAC QUI PARLE
+27,073,27073,Lac qui Parle,LACQUIPARLE
+27,073,27073,Lac qui Parle,Lac Qui Parle
+27,073,27073,Lac qui Parle,Lac qui Parle
+27,073,27073,Lac qui Parle,LacQuiParle
+27,073,27073,Lac qui Parle,LacquiParle
+27,073,27073,Lac qui Parle,lac qui parle
+27,073,27073,Lac qui Parle,lacquiparle
+27,075,27075,Lake,LAKE
+27,075,27075,Lake,Lake
+27,075,27075,Lake,lake
+27,077,27077,Lake of the Woods,LAKE OF THE WOODS
+27,077,27077,Lake of the Woods,LAKEOFTHEWOODS
+27,077,27077,Lake of the Woods,Lake Of The Woods
+27,077,27077,Lake of the Woods,Lake of the Woods
+27,077,27077,Lake of the Woods,LakeOfTheWoods
+27,077,27077,Lake of the Woods,LakeoftheWoods
+27,077,27077,Lake of the Woods,lake of the woods
+27,077,27077,Lake of the Woods,lakeofthewoods
+27,079,27079,Le Sueur,LE SUEUR
+27,079,27079,Le Sueur,LESUEUR
+27,079,27079,Le Sueur,Le Sueur
+27,079,27079,Le Sueur,LeSueur
+27,079,27079,Le Sueur,le sueur
+27,079,27079,Le Sueur,lesueur
+27,081,27081,Lincoln,LINCOLN
+27,081,27081,Lincoln,Lincoln
+27,081,27081,Lincoln,lincoln
+27,083,27083,Lyon,LYON
+27,083,27083,Lyon,Lyon
+27,083,27083,Lyon,lyon
+27,085,27085,McLeod,MCLEOD
+27,085,27085,McLeod,McLeod
+27,085,27085,McLeod,Mcleod
+27,085,27085,McLeod,mcleod
+27,087,27087,Mahnomen,MAHNOMEN
+27,087,27087,Mahnomen,Mahnomen
+27,087,27087,Mahnomen,mahnomen
+27,089,27089,Marshall,MARSHALL
+27,089,27089,Marshall,Marshall
+27,089,27089,Marshall,marshall
+27,091,27091,Martin,MARTIN
+27,091,27091,Martin,Martin
+27,091,27091,Martin,martin
+27,093,27093,Meeker,MEEKER
+27,093,27093,Meeker,Meeker
+27,093,27093,Meeker,meeker
+27,095,27095,Mille Lacs,MILLE LACS
+27,095,27095,Mille Lacs,MILLELACS
+27,095,27095,Mille Lacs,Mille Lacs
+27,095,27095,Mille Lacs,MilleLacs
+27,095,27095,Mille Lacs,mille lacs
+27,095,27095,Mille Lacs,millelacs
+27,097,27097,Morrison,MORRISON
+27,097,27097,Morrison,Morrison
+27,097,27097,Morrison,morrison
+27,099,27099,Mower,MOWER
+27,099,27099,Mower,Mower
+27,099,27099,Mower,mower
+27,101,27101,Murray,MURRAY
+27,101,27101,Murray,Murray
+27,101,27101,Murray,murray
+27,103,27103,Nicollet,NICOLLET
+27,103,27103,Nicollet,Nicollet
+27,103,27103,Nicollet,nicollet
+27,105,27105,Nobles,NOBLES
+27,105,27105,Nobles,Nobles
+27,105,27105,Nobles,nobles
+27,107,27107,Norman,NORMAN
+27,107,27107,Norman,Norman
+27,107,27107,Norman,norman
+27,109,27109,Olmsted,OLMSTED
+27,109,27109,Olmsted,Olmsted
+27,109,27109,Olmsted,olmsted
+27,111,27111,Otter Tail,OTTER TAIL
+27,111,27111,Otter Tail,OTTERTAIL
+27,111,27111,Otter Tail,Otter Tail
+27,111,27111,Otter Tail,OtterTail
+27,111,27111,Otter Tail,otter tail
+27,111,27111,Otter Tail,ottertail
+27,113,27113,Pennington,PENNINGTON
+27,113,27113,Pennington,Pennington
+27,113,27113,Pennington,pennington
+27,115,27115,Pine,PINE
+27,115,27115,Pine,Pine
+27,115,27115,Pine,pine
+27,117,27117,Pipestone,PIPESTONE
+27,117,27117,Pipestone,Pipestone
+27,117,27117,Pipestone,pipestone
+27,119,27119,Polk,POLK
+27,119,27119,Polk,Polk
+27,119,27119,Polk,polk
+27,121,27121,Pope,POPE
+27,121,27121,Pope,Pope
+27,121,27121,Pope,pope
+27,123,27123,Ramsey,RAMSEY
+27,123,27123,Ramsey,Ramsey
+27,123,27123,Ramsey,ramsey
+27,125,27125,Red Lake,RED LAKE
+27,125,27125,Red Lake,REDLAKE
+27,125,27125,Red Lake,Red Lake
+27,125,27125,Red Lake,RedLake
+27,125,27125,Red Lake,red lake
+27,125,27125,Red Lake,redlake
+27,127,27127,Redwood,REDWOOD
+27,127,27127,Redwood,Redwood
+27,127,27127,Redwood,redwood
+27,129,27129,Renville,RENVILLE
+27,129,27129,Renville,Renville
+27,129,27129,Renville,renville
+27,131,27131,Rice,RICE
+27,131,27131,Rice,Rice
+27,131,27131,Rice,rice
+27,133,27133,Rock,ROCK
+27,133,27133,Rock,Rock
+27,133,27133,Rock,rock
+27,135,27135,Roseau,ROSEAU
+27,135,27135,Roseau,Roseau
+27,135,27135,Roseau,roseau
+27,137,27137,St. Louis,ST LOUIS
+27,137,27137,St. Louis,ST. LOUIS
+27,137,27137,St. Louis,ST.LOUIS
+27,137,27137,St. Louis,STLOUIS
+27,137,27137,St. Louis,St Louis
+27,137,27137,St. Louis,St. Louis
+27,137,27137,St. Louis,St.Louis
+27,137,27137,St. Louis,StLouis
+27,137,27137,St. Louis,st louis
+27,137,27137,St. Louis,st. louis
+27,137,27137,St. Louis,st.louis
+27,137,27137,St. Louis,stlouis
+27,139,27139,Scott,SCOTT
+27,139,27139,Scott,Scott
+27,139,27139,Scott,scott
+27,141,27141,Sherburne,SHERBURNE
+27,141,27141,Sherburne,Sherburne
+27,141,27141,Sherburne,sherburne
+27,143,27143,Sibley,SIBLEY
+27,143,27143,Sibley,Sibley
+27,143,27143,Sibley,sibley
+27,145,27145,Stearns,STEARNS
+27,145,27145,Stearns,Stearns
+27,145,27145,Stearns,stearns
+27,147,27147,Steele,STEELE
+27,147,27147,Steele,Steele
+27,147,27147,Steele,steele
+27,149,27149,Stevens,STEVENS
+27,149,27149,Stevens,Stevens
+27,149,27149,Stevens,stevens
+27,151,27151,Swift,SWIFT
+27,151,27151,Swift,Swift
+27,151,27151,Swift,swift
+27,153,27153,Todd,TODD
+27,153,27153,Todd,Todd
+27,153,27153,Todd,todd
+27,155,27155,Traverse,TRAVERSE
+27,155,27155,Traverse,Traverse
+27,155,27155,Traverse,traverse
+27,157,27157,Wabasha,WABASHA
+27,157,27157,Wabasha,Wabasha
+27,157,27157,Wabasha,wabasha
+27,159,27159,Wadena,WADENA
+27,159,27159,Wadena,Wadena
+27,159,27159,Wadena,wadena
+27,161,27161,Waseca,WASECA
+27,161,27161,Waseca,Waseca
+27,161,27161,Waseca,waseca
+27,163,27163,Washington,WASHINGTON
+27,163,27163,Washington,Washington
+27,163,27163,Washington,washington
+27,165,27165,Watonwan,WATONWAN
+27,165,27165,Watonwan,Watonwan
+27,165,27165,Watonwan,watonwan
+27,167,27167,Wilkin,WILKIN
+27,167,27167,Wilkin,Wilkin
+27,167,27167,Wilkin,wilkin
+27,169,27169,Winona,WINONA
+27,169,27169,Winona,Winona
+27,169,27169,Winona,winona
+27,171,27171,Wright,WRIGHT
+27,171,27171,Wright,Wright
+27,171,27171,Wright,wright
+27,173,27173,Yellow Medicine,YELLOW MEDICINE
+27,173,27173,Yellow Medicine,YELLOWMEDICINE
+27,173,27173,Yellow Medicine,Yellow Medicine
+27,173,27173,Yellow Medicine,YellowMedicine
+27,173,27173,Yellow Medicine,yellow medicine
+27,173,27173,Yellow Medicine,yellowmedicine
+27,137,27137,St. Louis,SAINT LOUIS
+27,137,27137,St. Louis,SAINTLOUIS
+27,137,27137,St. Louis,saint louis
+27,137,27137,St. Louis,saintlouis

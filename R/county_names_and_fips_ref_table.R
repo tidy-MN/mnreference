@@ -50,6 +50,19 @@ mn_counties_long <- mn_counties_long  %>%
                     slice_head(n = 1) %>%
                     arrange(fips)
 
+# Add special cases (SAINT LOUIS)
+stlouis <- filter(mn_counties_long, county_name == "St. Louis")[1,]
+
+stlouis <- bind_rows(stlouis, stlouis) %>% 
+           bind_rows(stlouis) %>% 
+           bind_rows(stlouis)
+
+stlouis <- stlouis %>%
+           mutate(alt_spelling = c("SAINT LOUIS", "SAINTLOUIS",
+                                   "saint louis", "saintlouis"))
+
+mn_counties_long <- bind_rows(mn_counties_long, stlouis)
+
 # SAVE 
 write_csv(mn_counties, "County FIPS reference table.csv")
 write_csv(mn_counties_long, "County names - Join alt spellings.csv")
