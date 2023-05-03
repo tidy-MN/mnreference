@@ -8,7 +8,7 @@ Get MN reference data for populations, demographics, and geographic boundaries.
 
 |Topic     |Data                                               | Filename | Last updated | Update schedule |
 |:---------|:--------------------------------------------------|:---------|:---------|:---------|
-|Census    | **ACS Populations 2017-2021**                         | [*state/county/tract/zcta*_populations_acs_2017_2021.csv](data/) | Jan, 2023 | Annually (Jan) |
+|Census    | **ACS Populations 2017-2021**                         | [*state/county/tract/zcta/tribes*_populations_acs_2017_2021.csv](data/) | Jan, 2023 | Annually (Jan) |
 |Geography | County FIPS reference table                       | [County FIPS Reference Table.csv](data/County%20FIPS%20Reference%20Table.csv) | Apr, 2023 |	None |
 |Geography | County names for joining (alternate spellings)    | [County names - Join alt spellings.csv](data/County%20names%20-%20Join%20alt%20spellings.csv) | Apr, 2023 |	None |
 |Geography | Tracts in MN - Census 2020                        | [Census Tract polygons 2020 simplified.zip](data/Census%20Tract%20polygons%202020%20simplified.zip) | Feb, 2022 |	10 years |
@@ -39,7 +39,11 @@ tract_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/tra
 
 
 # ZCTA populations
-tract_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/zcta_populations_acs_2017_2021.csv")
+zcta_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/zcta_populations_acs_2017_2021.csv")
+
+
+# Tribes populations
+tribes_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/tribes_populations_acs_2017_2021.csv")
 
 
 # County FIPS reference
@@ -73,7 +77,7 @@ unzip("Census Zip-ZCTA polygons 2020 simplified.zip")
 
 # MNDOT interpreted tribal areas
 download.file("https://github.com/tidy-MN/mnreference/raw/main/data/MNDOT%20interpreted%20tribal%20areas.zip", 
-              "Census Zip-ZCTA polygons 2020 simplified.zip")
+              "MNDOT interpreted tribal areas.zip")
 
 unzip("MNDOT interpreted tribal areas.zip")
 

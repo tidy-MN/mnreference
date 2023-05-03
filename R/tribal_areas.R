@@ -91,7 +91,7 @@ mn_ai_geos <- mn_ai_geos %>%
 st_write(mn_ai_geos, "simplified_census_2020_american_indian_geographies.shp")
 
 # Review
-aa <- st_read("simplified_census_2020_zcta_polygons.shp")
+aa <- st_read("data/MNDOT interpreted tribal areas/Tribal_Government__in_Minnesota.shp")
 
 plot(aa[,1])
 }
