@@ -64,5 +64,5 @@ stlouis <- stlouis %>%
 mn_counties_long <- bind_rows(mn_counties_long, stlouis)
 
 # SAVE 
-write_csv(mn_counties, "data/County FIPS reference table.csv")
-write_csv(mn_counties_long, "data/County names - Join alt spellings.csv")
+write_csv(mn_counties, "data/county_fips_reference.csv")
+write_csv(mn_counties_long, "data/county_names_alt_spellings.csv")

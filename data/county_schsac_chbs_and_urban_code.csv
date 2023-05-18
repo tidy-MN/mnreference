@@ -1,0 +1,88 @@
+fips,county_name,schsac_region,schsac_region_long,schsac_region_split,com_health_board,nchs_urban_code_2013,nchs_urban_name_2013,nchs_urban_desc_2013
+27061,Itasca,Northeast,Northeastern,North East,Aitkin-Itasca-Koochiching,6,Noncore,Counties not within micropolitan statistical areas
+27013,Blue Earth,South Central,South Central,South Central,Blue Earth,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27167,Wilkin,West Central,West Central,West Central,Partnership4Health,5,Micropolitan,Counties in micropolitan statistical areas
+27145,Stearns,Central,Central,Central,Stearns,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27083,Lyon,Southwest,Southwestern,South West,Southwest Health and Human Services,5,Micropolitan,Counties in micropolitan statistical areas
+27139,Scott,Metro,Metro,Metro,Scott,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27015,Brown,South Central,South Central,South Central,Brown-Nicollet,5,Micropolitan,Counties in micropolitan statistical areas
+27053,Hennepin,Metro,Metro,Metro,Hennepin,1,Large central metro,NCHS-defined “central” counties of MSAs of 1 million or more population
+27023,Chippewa,Southwest,Southwestern,South West,Countryside,6,Noncore,Counties not within micropolitan statistical areas
+27089,Marshall,Northwest,Northwestern,North West,Quin County,6,Noncore,Counties not within micropolitan statistical areas
+27163,Washington,Metro,Metro,Metro,Washington,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27173,Yellow Medicine,Southwest,Southwestern,South West,Countryside,6,Noncore,Counties not within micropolitan statistical areas
+27073,Lac qui Parle,Southwest,Southwestern,South West,Countryside,6,Noncore,Counties not within micropolitan statistical areas
+27027,Clay,West Central,West Central,West Central,Partnership4Health,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27107,Norman,Northwest,Northwestern,North West,Polk-Norman-Mahnomen,6,Noncore,Counties not within micropolitan statistical areas
+27069,Kittson,Northwest,Northwestern,North West,Quin County,6,Noncore,Counties not within micropolitan statistical areas
+27119,Polk,Northwest,Northwestern,North West,Polk-Norman-Mahnomen,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27097,Morrison,Central,Central,Central,Morrison-Todd-Wadena,6,Noncore,Counties not within micropolitan statistical areas
+27129,Renville,Southwest,Southwestern,South West,Kandiyohi - Renville,6,Noncore,Counties not within micropolitan statistical areas
+27137,St. Louis,Northeast,Northeastern,North East,Carlton-Cook-Lake-St. Louis,3,Medium metro,"Counties within MSAs of 250,000- 999,999 population"
+27011,Big Stone,Southwest,Southwestern,South West,Countryside,6,Noncore,Counties not within micropolitan statistical areas
+27077,Lake of the Woods,Northwest,Northwestern,North West,North Country,6,Noncore,Counties not within micropolitan statistical areas
+27171,Wright,Central,Central,Central,Wright,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27075,Lake,Northeast,Northeastern,North East,Carlton-Cook-Lake-St. Louis,6,Noncore,Counties not within micropolitan statistical areas
+27165,Watonwan,South Central,South Central,South Central,Watonwan,6,Noncore,Counties not within micropolitan statistical areas
+27031,Cook,Northeast,Northeastern,North East,Carlton-Cook-Lake-St. Louis,6,Noncore,Counties not within micropolitan statistical areas
+27103,Nicollet,South Central,South Central,South Central,Brown-Nicollet,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27127,Redwood,Southwest,Southwestern,South West,Southwest Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27081,Lincoln,Southwest,Southwestern,South West,Southwest Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27021,Cass,Central,Central,Central,Cass,5,Micropolitan,Counties in micropolitan statistical areas
+27079,Le Sueur,South Central,South Central,South Central,LeSueur-Waseca,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27091,Martin,South Central,South Central,South Central,Human Services of Faribault and Martin Counties,6,Noncore,Counties not within micropolitan statistical areas
+27059,Isanti,Central,Central,Central,Isanti,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27049,Goodhue,Southeast,Southeastern,South East,Goodhue,5,Micropolitan,Counties in micropolitan statistical areas
+27001,Aitkin,Northeast,Northeastern,North East,Aitkin-Itasca-Koochiching,6,Noncore,Counties not within micropolitan statistical areas
+27117,Pipestone,Southwest,Southwestern,South West,Southwest Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27109,Olmsted,Southeast,Southeastern,South East,Olmsted,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27131,Rice,Southeast,Southeastern,South East,Rice Services,5,Micropolitan,Counties in micropolitan statistical areas
+27067,Kandiyohi,Southwest,Southwestern,South West,Kandiyohi - Renville,5,Micropolitan,Counties in micropolitan statistical areas
+27047,Freeborn,Southeast,Southeastern,South East,Freeborn,5,Micropolitan,Counties in micropolitan statistical areas
+27085,McLeod,South Central,South Central,South Central,Meeker-McLeod-Sibley,5,Micropolitan,Counties in micropolitan statistical areas
+27133,Rock,Southwest,Southwestern,South West,Southwest Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27151,Swift,Southwest,Southwestern,South West,Countryside,6,Noncore,Counties not within micropolitan statistical areas
+27039,Dodge,Southeast,Southeastern,South East,Dodge-Steele,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27101,Murray,Southwest,Southwestern,South West,Southwest Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27125,Red Lake,Northwest,Northwestern,North West,Quin County,6,Noncore,Counties not within micropolitan statistical areas
+27029,Clearwater,Northwest,Northwestern,North West,North Country,6,Noncore,Counties not within micropolitan statistical areas
+27003,Anoka,Metro,Metro,Metro,Anoka,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27037,Dakota,Metro,Metro,Metro,Dakota Department,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27115,Pine,Central,Central,Central,Pine,6,Noncore,Counties not within micropolitan statistical areas
+27063,Jackson,Southwest,Southwestern,South West,Des Moines Valley Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27153,Todd,Central,Central,Central,Morrison-Todd-Wadena,6,Noncore,Counties not within micropolitan statistical areas
+27019,Carver,Metro,Metro,Metro,Carver,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27105,Nobles,Southwest,Southwestern,South West,Nobles,5,Micropolitan,Counties in micropolitan statistical areas
+27123,Ramsey,Metro,Metro,Metro,St. Paul-Ramsey,1,Large central metro,NCHS-defined “central” counties of MSAs of 1 million or more population
+27007,Beltrami,Northwest,Northwestern,North West,Beltrami,5,Micropolitan,Counties in micropolitan statistical areas
+27161,Waseca,South Central,South Central,South Central,LeSueur-Waseca,6,Noncore,Counties not within micropolitan statistical areas
+27087,Mahnomen,Northwest,Northwestern,North West,Polk-Norman-Mahnomen,6,Noncore,Counties not within micropolitan statistical areas
+27157,Wabasha,Southeast,Southeastern,South East,Wabasha,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27155,Traverse,West Central,West Central,West Central,Horizon Public Health,6,Noncore,Counties not within micropolitan statistical areas
+27111,Otter Tail,West Central,West Central,West Central,Partnership4Health,5,Micropolitan,Counties in micropolitan statistical areas
+27051,Grant,West Central,West Central,West Central,Horizon Public Health,6,Noncore,Counties not within micropolitan statistical areas
+27057,Hubbard,Northwest,Northwestern,North West,North Country,6,Noncore,Counties not within micropolitan statistical areas
+27035,Crow Wing,Central,Central,Central,Crow Wing Health,5,Micropolitan,Counties in micropolitan statistical areas
+27095,Mille Lacs,Central,Central,Central,Mille Lacs,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27143,Sibley,South Central,South Central,South Central,Meeker-McLeod-Sibley,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27005,Becker,West Central,West Central,West Central,Partnership4Health,6,Noncore,Counties not within micropolitan statistical areas
+27141,Sherburne,Central,Central,Central,Sherburne Health and Human Services,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27041,Douglas,West Central,West Central,West Central,Horizon Public Health,5,Micropolitan,Counties in micropolitan statistical areas
+27071,Koochiching,Northeast,Northeastern,North East,Aitkin-Itasca-Koochiching,6,Noncore,Counties not within micropolitan statistical areas
+27025,Chisago,Central,Central,Central,Chisago,2,Large fringe metro,NCHS-defined “fringe” counties of MSAs of 1 million or more population
+27009,Benton,Central,Central,Central,Benton,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27043,Faribault,South Central,South Central,South Central,Human Services of Faribault and Martin Counties,6,Noncore,Counties not within micropolitan statistical areas
+27065,Kanabec,Central,Central,Central,Kanabec,6,Noncore,Counties not within micropolitan statistical areas
+27113,Pennington,Northwest,Northwestern,North West,Quin County,6,Noncore,Counties not within micropolitan statistical areas
+27017,Carlton,Northeast,Northeastern,North East,Carlton-Cook-Lake-St. Louis,3,Medium metro,"Counties within MSAs of 250,000- 999,999 population"
+27093,Meeker,South Central,South Central,South Central,Meeker-McLeod-Sibley,6,Noncore,Counties not within micropolitan statistical areas
+27099,Mower,Southeast,Southeastern,South East,Mower Health and Human Services,5,Micropolitan,Counties in micropolitan statistical areas
+27135,Roseau,Northwest,Northwestern,North West,Quin County,6,Noncore,Counties not within micropolitan statistical areas
+27149,Stevens,West Central,West Central,West Central,Horizon Public Health,6,Noncore,Counties not within micropolitan statistical areas
+27147,Steele,Southeast,Southeastern,South East,Dodge-Steele,5,Micropolitan,Counties in micropolitan statistical areas
+27121,Pope,West Central,West Central,West Central,Horizon Public Health,6,Noncore,Counties not within micropolitan statistical areas
+27055,Houston,Southeast,Southeastern,South East,Fillmore-Houston,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27169,Winona,Southeast,Southeastern,South East,Winona,5,Micropolitan,Counties in micropolitan statistical areas
+27045,Fillmore,Southeast,Southeastern,South East,Fillmore-Houston,4,Small metro,"Counties within MSAS of 50,000 to 249,999 population"
+27033,Cottonwood,Southwest,Southwestern,South West,Des Moines Valley Health and Human Services,6,Noncore,Counties not within micropolitan statistical areas
+27159,Wadena,Central,Central,Central,Morrison-Todd-Wadena,6,Noncore,Counties not within micropolitan statistical areas
