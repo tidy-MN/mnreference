@@ -12,7 +12,6 @@ Get MN reference data for populations, demographics, and geographic boundaries.
 |Geography | County FIPS reference table                       | [County FIPS Reference Table.csv](data/county_fips_reference.csv) | Apr, 2023 |	None |
 |Geography | County names for joining (alternate spellings)    | [County names - Join alt spellings.csv](data/county_names_alt_spellings.csv) | Apr, 2023 |	None |
 |Geography | MDH: County SCHSAC regions, NCHS urbran/rural code, and Community Health Boards  | [county_schsac_chbs_and_urban_code.csv](data/county_schsac_chbs_and_urban_code.csv) | May, 2023 |	None |
-
 |Geography | Tracts in MN - Census 2020                        | [Census Tract polygons 2020 simplified.zip](data/Census%20Tract%20polygons%202020%20simplified.zip) | Feb, 2022 |	10 years |
 |Geography | **ZIP Code Tabulation Areas - Census 2020**          | [Census Zip-ZCTA polygons 2020 simplified.zip](data/Census%20Zip-ZCTA%20polygons%202020%20simplified.zip) | Feb, 2022	| 10 years |
 |Geography | MN interpreted Tribal areas - 2023                | [MN interpreted tribal areas.zip](data/MNDOT%20interpreted%20tribal%20areas.zip) | Apr, 2023	| Annually (Apr) | 
