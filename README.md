@@ -66,6 +66,7 @@ county_join <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/m
 library(sf)
 
 # Census Tracts
+options(download.file.method="curl", download.file.extra="-k -L")
 download.file("https://github.com/tidy-MN/mnreference/raw/main/data/Census%20Tract%20polygons%202020%20simplified.zip", 
               "Census Tract polygons 2020 simplified.zip")
 
@@ -73,6 +74,7 @@ unzip("Census Tract polygons 2020 simplified.zip")
 
 
 # Census ZIP-ZCTAs
+options(download.file.method="curl", download.file.extra="-k -L")
 download.file("https://github.com/tidy-MN/mnreference/raw/main/data/Census%20Zip-ZCTA%20polygons%202020%20simplified.zip", 
               "Census Zip-ZCTA polygons 2020 simplified.zip")
 
@@ -80,6 +82,7 @@ unzip("Census Zip-ZCTA polygons 2020 simplified.zip")
 
 
 # MNDOT interpreted tribal areas
+options(download.file.method="curl", download.file.extra="-k -L")
 download.file("https://github.com/tidy-MN/mnreference/raw/main/data/MNDOT%20interpreted%20tribal%20areas.zip", 
               "MNDOT interpreted tribal areas.zip")
 
@@ -87,6 +90,7 @@ unzip("MNDOT interpreted tribal areas.zip")
 
 
 # MPCA EJ tribal areas
+options(download.file.method="curl", download.file.extra="-k -L")
 download.file("https://github.com/tidy-MN/mnreference/raw/main/data/MPCA%20EJ%20tribal%20areas.zip", 
               "MPCA EJ tribal areas.zip")
 
