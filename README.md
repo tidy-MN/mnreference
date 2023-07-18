@@ -54,6 +54,7 @@ county_fips <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/m
 # County names - Join reference with alt spellings
 county_join <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_names_alt_spellings.csv")
 
+
 # MDH: County SCHSAC regions and NCHS urbran/rural code - Join reference with alt spellings
 county_join <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_names_alt_spellings.csv")
 ```
