@@ -16,8 +16,8 @@ Get MN reference data for populations, demographics, and geographic boundaries.
 |Geography | **ZIP Code Tabulation Areas - Census 2020**          | [Census Zip-ZCTA polygons 2020 simplified.zip](data/Census%20Zip-ZCTA%20polygons%202020%20simplified.zip) | Feb, 2022	| 10 years |
 |Geography | MN interpreted Tribal areas - 2023                | [MN interpreted tribal areas.zip](data/MNDOT%20interpreted%20tribal%20areas.zip) | Apr, 2023	| Annually (Apr) | 
 |Geography | MPCA EJ Tribal areas - 2023                       | [MPCA EJ tribal areas.zip](data/MPCA%20EJ%20tribal%20areas.zip) | Apr, 2023 |	Annually (Apr) |
-|Geography | City Tracts - Census 2020 | (Help Wanted) | | 10 years |
-|Geography | City ZIP - ZCTAs - Census 2020 | (Help Wanted)  | | 10 years |
+|Geography | City Tracts - Census 2020 | (Coming soon...) | | 10 years |
+|Geography | City ZIP - ZCTAs - Census 2020 | (Coming soon...)  | | 10 years |
 
 <br>
 
