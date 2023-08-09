@@ -1,6 +1,8 @@
 # mnreference :earth_africa::clipboard:
 
-Get MN reference data for populations, demographics, and geographic boundaries.
+<br>
+
+> ### Get MN reference data for populations, demographics, and geographic boundaries.
 
 <br>
 
@@ -53,6 +55,9 @@ county_fips <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/m
 
 # County names - Join reference with alt spellings
 county_join <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_names_alt_spellings.csv")
+
+## Use left_join() to add Census geoids and county names to your data
+your_data <- left_join(your_data, county_join, by = c("your_county_column" = "alt_spelling"))
 
 
 # MDH: County SCHSAC regions and NCHS urbran/rural code - Join reference with alt spellings
