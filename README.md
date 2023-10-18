@@ -60,8 +60,8 @@ county_join <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/m
 your_data <- left_join(your_data, county_join, by = c("your_county_column" = "alt_spelling"))
 
 
-# MDH: County SCHSAC regions and NCHS urbran/rural code - Join reference with alt spellings
-county_join <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_names_alt_spellings.csv")
+# MDH: County SCHSAC regions, NCHS urbran/rural code, and Community Health Boards
+county_schsac <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_schsac_chbs_and_urban_code.csv")
 ```
 
 <br>
