@@ -11,13 +11,13 @@ options(tigris_use_cache = TRUE)
 # MNDOT's GIS Commons shapefile
 download.file("https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/bdry_tribal_government/shp_bdry_tribal_government.zip", "data/MNDOT interpreted tribal areas.zip")
 
-unzip("data/MNDOT interpreted tribal areas.zip")
+unzip("data/MNDOT interpreted tribal areas.zip", exdir = "tmp")
 
 
 # MPCA EJ Tribal areas
 download.file("https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_ej_mpca_census/shp_env_ej_mpca_census.zip", "data/MPCA EJ tribal areas.zip")
 
-unzip("data/MPCA EJ tribal areas.zip")
+unzip("data/MPCA EJ tribal areas.zip", exdir = "tmp")
 
 
 if FALSE {
@@ -91,7 +91,7 @@ mn_ai_geos <- mn_ai_geos %>%
 st_write(mn_ai_geos, "simplified_census_2020_american_indian_geographies.shp")
 
 # Review
-aa <- st_read("data/MNDOT interpreted tribal areas/Tribal_Government__in_Minnesota.shp")
+aa <- st_read("tmp/Tribal_Government__in_Minnesota.shp")
 
 plot(aa[,1])
 }
