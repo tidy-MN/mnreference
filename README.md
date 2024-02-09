@@ -10,7 +10,7 @@
 
 |Topic     |Data                                               | Filename | Last updated | Update schedule |
 |:---------|:--------------------------------------------------|:---------|:---------|:---------|
-|Census    | **ACS Populations 2017-2021**                         | [*state/county/tract/zcta/tribes*_populations_acs_2017_2021.csv](data/) | Jan, 2023 | Annually (Jan) |
+|Census    | **ACS Populations 2018-2022**                         | [*state/county/tract/zcta/tribes*_populations_acs_2018_2022.csv](data/) | Jan, 2024 | Annually (Jan) |
 |Geography | County FIPS reference table                       | [County FIPS Reference Table.csv](data/county_fips_reference.csv) | Apr, 2023 |	None |
 |Geography | County names for joining (alternate spellings)    | [County names - Alt spellings.csv](data/county_names_alt_spellings.csv) | Apr, 2023 |	None |
 |Geography | MDH: County SCHSAC regions, NCHS urbran/rural code, and Community Health Boards  | [county_schsac_chbs_and_urban_code.csv](data/county_schsac_chbs_and_urban_code.csv) | May, 2023 |	None |
@@ -33,23 +33,23 @@
 library(tidyverse)
 
 # State populations
-state_pops <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/state_populations_acs_2017_2021.csv")
+state_pops <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/state_populations_acs_2018_2022.csv")
 
 
 # County populations
-county_pops <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_populations_acs_2017_2021.csv")
+county_pops <- read_csv("https://raw.githubusercontent.com/tidy-MN/mnreference/main/data/county_populations_acs_2018_2022.csv")
 
 
 # Tract populations
-tract_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/tract_populations_acs_2017_2021.csv")
+tract_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/tract_populations_acs_2018_2022.csv")
 
 
 # ZCTA populations
-zcta_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/zcta_populations_acs_2017_2021.csv")
+zcta_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/zcta_populations_acs_2018_2022.csv")
 
 
 # Tribes populations
-tribes_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/tribes_populations_acs_2017_2021.csv")
+tribes_pops <- read_csv("https://github.com/tidy-MN/mnreference/raw/main/data/tribes_populations_acs_2018_2022.csv")
 
 
 # County FIPS reference
